@@ -9850,7 +9850,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-    color: #fff !important;
+    color: #6c757d !important;
 }
 
 .text-black-50 {
@@ -10414,7 +10414,7 @@ header.masthead .masthead-heading {
         margin-left: -85px;
     }
     .timeline > li .timeline-image h4 {
-        margin-top: 51px;
+        margin-top: 40px;
     }
     .timeline > li.timeline-inverted > .timeline-panel {
         padding: 0 100px 20px 20px;
@@ -10432,6 +10432,13 @@ header.masthead .masthead-heading {
 .personal-detail h4 {
     margin-top: 1.5rem;
     margin-bottom: 0;
+}
+
+section#contact {
+    background-color: #a9a9a9;
+    background-image: url("../assets/img/map-image.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 section#contact form#contactForm .form-group {
     margin-bottom: 1.5rem;
@@ -10495,30 +10502,46 @@ section#contact form#contactForm :-ms-input-placeholder {
     margin-bottom:5em;
 }
 .container{text-align:left;}
-
+.skills-bg {   
+    background: url("../assets/img/android-phone.png") no-repeat;
+    background-size: cover;
+    padding-top:76px;
+    height:738px;
+}
+.mbc-1,.mbc-2,.mbc-3 {
+    padding-top:20px;
+    margin:0px auto;    
+    height: 595px;   
+}
+.mbc-1 {    
+    background: url("../assets/img/mbc2_bg.jpg") no-repeat;
+    background-size: cover;
+}
+.mbc-2 {    
+    background: url("../assets/img/mbc3_bg.jpg") no-repeat;
+    background-size: cover;
+}
+.mbc-3 {    
+    background: url("../assets/img/mbc4_bg.jfif") no-repeat;
+    background-size: cover;
+}
+section#skills ul{
+    padding:0px;
+}
 section#skills ul li {
     list-style:none;
-    color: #fff;
+    /*color: #fff;*/
 }
 
 section#skills {
-    background-color: #000;
-    background-image: linear-gradient(0deg, #2d3436 0%, #000 53%);
-    color: #fff;
+    background:#f7f7f7;
+    /*background-color: #485461;*/
+    /*background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);*/
+    /*color: #fff;*/
 }
 section#about{
-    background-color: #2d3436;
-    background-image: linear-gradient(359deg, #a9a9a9 0%, #2d3436 74%);
-    color: #fff;
-}
-section#contact {    
-    background-image: url("../assets/img/map-image.png");
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-color: #a9a9a9;
-    background-image: linear-gradient(351deg, #cecece 0%, #a9a9a9 0%);
-
+    background-color: #f3e6e8;
+    background-image: linear-gradient(315deg, #f3e6e8 0%, #d5d0e5 74%);
 }
 
 .text-danger {
