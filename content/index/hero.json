@@ -1,32 +1,32 @@
 {
-	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
-		"speed": 60,
-		"deletionSpeed": 80,
-		"wrapper": "h2",
-		"startDelay": 1000,
-		"deleteDelay": 3000,
-		"restartDelay": 12000
-	},
+  "intro": {
+    "start": "const Deepak = ( name, passion ) =>",
+    "end": "Hello, my name is",
+    "speed": 60,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
 
-	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
-	},
+  "header": {
+    "name": "Deepak Rajput.",
+    "usp": "I am an android developer."
+  },
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+  "paragraph": "Experienced Android developer proficient in Java and Kotlin, specializing in MVI, MVVM, and modularization. Skilled in Jetpack, Compose, Hilt, Dagger2, REST, GraphQL, SQLite, and unit testing, with expertise in Exoplayer and multithreading.",
 
-	"buttons": {
-		"primary": {
-			"title": "Contact Me",
-			"url": "",
-			"leaveSite": false
-		},
-		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
-			"leaveSite": "true"
-		}
-	}
+  "buttons": {
+    "primary": {
+      "title": "Contact Me",
+      "url": "",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "LinkedIn",
+      "url": "",
+      "leaveSite": "true"
+    }
+  }
 }
