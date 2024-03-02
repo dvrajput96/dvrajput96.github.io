@@ -1,11 +1,11 @@
 {
   "social": [
     {
-      "url": "https://medium.com/@--andrewnelson",
+      "url": "/",
       "icon": "medium"
     },
     {
-      "url": "https://dev.to/andrewnelson",
+      "url": "/",
       "icon": "dev"
     },
     {
@@ -13,7 +13,7 @@
       "icon": "linkedin"
     },
     {
-      "url": "https://github.com/atlamors",
+      "url": "https://github.com/dvrajput96",
       "icon": "github"
     }
   ]
