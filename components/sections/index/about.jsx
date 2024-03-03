@@ -51,13 +51,10 @@ export default function About() {
         />
         <section className={about.content}>
           <div className={about.image}>
-            {/* <img src="/img/family-photo.jpg" alt="Nelson family photo" /> */}
-            {/* <Image src="/img/family-photo.jpg" width={600} height={800} /> */}
             <Swiper
               autoplay
               modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
               slidesPerView={1}
-              navigation
               pagination={{ clickable: true }}
               scrollbar={{ draggable: true }}
             >
