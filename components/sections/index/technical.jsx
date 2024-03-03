@@ -30,20 +30,20 @@ export default function Technical() {
         <SectionTitle
           title="Technical"
           preTitle="Hardskills"
-          subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
+          subTitle="As an app developer, I specialize in crafting intuitive digital experiences by leveraging a diverse set of tools and languages. My expertise lies in seamlessly translating creative concepts into functional and user-friendly applications, ensuring a dynamic and engaging user experience."
         />
         <section className={`${about.content} ${about.container}`}>
           <div className={about.copy}>
             <CopyBlock
               title="Polymath foundations"
               icon={["fat", "chart-network"]}
-              copy="With a strong foundation in both design and development, I bring a unique perspective to every project and am constantly learning and evolving to stay up-to-date with the latest industry trends."
+              copy="My proficiency in languages such as Java, Kotlin, and a range of frameworks, including Android Jetpack and Jetpack Compose, empowers me to navigate the intricacies of app development seamlessly. "
               iconClass={about.icon}
               containerClass={about.container}
             />
             <BadgesBlock
               title="Software I love to work with"
-              copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+              copy="With over 5 years of experience in creating digital assets, I possess a profound and intuitive understanding of designing interfaces, drawing inspiration from the best software products worldwide. Throughout my journey, I have adeptly navigated and utilized a diverse range of software tools, enriching my expertise as an Android developer and enabling me to contribute to the creation of exceptional and user-centric applications."
               list={software}
               block="software"
               fullContainer="fullContainer"
@@ -78,31 +78,26 @@ export default function Technical() {
 }
 
 const software = [
-  { key: "photoshop", name: "Photoshop", type: "devicon" },
-  { key: "illustrator", name: "Illustrator", type: "devicon" },
+  { key: "android", name: "Android", type: "devicon" },
+  { key: "androidstudio", name: "Android Studio", type: "devicon" },
+  { key: "java", name: "Java", type: "devicon" },
+  { key: "kotlin", name: "Kotlin", type: "devicon" },
   { key: "figma", name: "Figma", type: "devicon" },
   { key: "vscode", name: "VSCode", type: "devicon" },
   { key: "mailbox", name: "Postman", type: "fas" },
   { key: "computer-mouse", name: "Click Up", type: "fas" },
-  { key: "list-music", name: "Ableton", type: "fas" },
-  { key: "aftereffects", name: "After Effects", type: "devicon" },
-  { key: "premierepro", name: "Premiere Pro", type: "devicon" },
 ];
 
 const tech = [
-  { key: "javascript", name: "JavaScript", type: "devicon" },
-  { key: "nodejs", name: "NodeJS", type: "devicon" },
-  { key: "react", name: "React", type: "devicon" },
-  { key: "nextjs", name: "NextJS", type: "devicon" },
-  { key: "jquery", name: "jQuery", type: "devicon" },
-  { key: "php", name: "PHP", type: "devicon" },
-  { key: "wordpress", name: "WordPress", type: "devicon" },
-  { key: "woocommerce", name: "WooCommerce", type: "devicon" },
+  { key: "android", name: "Android", type: "devicon" },
+  { key: "androidstudio", name: "Android Studio", type: "devicon" },
+  { key: "java", name: "Java", type: "devicon" },
+  { key: "kotlin", name: "Kotlin", type: "devicon" },
+  { key: "jetpackcompose", name: "Jetpack Compose", type: "devicon" },
   { key: "google", name: "GA4/GTM", type: "devicon" },
   { key: "html5", name: "HTML5", type: "devicon" },
   { key: "css3", name: "CSS3", type: "devicon" },
   { key: "sass", name: "SASS", type: "devicon" },
   { key: "git", name: "Git", type: "devicon" },
   { key: "mysql", name: "MySQL", type: "devicon" },
-  { key: "mongodb", name: "MongoDB", type: "devicon" },
 ];
