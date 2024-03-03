@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Image from "next/image";
 
 import { useEffect } from "react";
@@ -83,7 +84,7 @@ export default function FeaturedProject({ content }, index) {
             return (
               <m.div key={`${index}-${key}`} variants={item}>
                 <m.div variants={hover}>
-                  <Image src={url} alt="x" height={h} width={w} />
+                  <img src={url} alt="x" />
                 </m.div>
               </m.div>
             );

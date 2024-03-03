@@ -12,7 +12,7 @@
         "hover": "right",
         "h": "96",
         "w": "279",
-        "url": "/img/amway-seeklogo.svg"
+        "url": "/img/amway-seeklogo.png"
       }
     ],
     "stack": [
@@ -35,7 +35,7 @@
         "hover": "right",
         "h": "50",
         "w": "513",
-        "url": "/img/chopt.svg"
+        "url": "/img/chopt-log-r.png"
       }
     ],
     "stack": [
@@ -57,7 +57,7 @@
         "hover": "right",
         "h": "63",
         "w": "200",
-        "url": "/img/cpk-logo.svg"
+        "url": "/img/cpk-logo-resize.png"
       }
     ],
     "stack": [{ "key": "kotlin", "name": "Kotlin", "type": "devicon" }]
@@ -93,7 +93,7 @@
         "hover": "right",
         "h": "3",
         "w": "4",
-        "url": "/img/mlbpa-l2 (1).svg"
+        "url": "/img/mlbpa-r.webp"
       }
     ],
     "stack": [
@@ -114,7 +114,7 @@
         "hover": "left",
         "h": "152",
         "w": "312",
-        "url": "/img/mosomo-logo.svg"
+        "url": "/img/mosomo-log-resize.png"
       }
     ],
     "stack": [
@@ -137,7 +137,7 @@
         "hover": "right",
         "h": "88",
         "w": "136",
-        "url": "/img/sushi_logo.svg"
+        "url": "/img/sushi_logo.png"
       }
     ],
     "stack": [
