@@ -47,7 +47,7 @@ export default function About() {
         <SectionTitle
           title="About Me"
           preTitle="Synopsis"
-          subTitle="Experienced Android developer with a proven track record of delivering high-quality applications. Proficient in Java and Kotlin programming languages, specializing in MVI, MVVM, and Modularization. Adept at utilizing a variety of Android technologies for seamless development."
+          subTitle="I'm a seasoned Android developer with a zest for embracing life's adventures in all their glory. Beyond the world of coding, I'm a firm believer in exploring new horizons, diving headfirst into thrilling escapades, and reveling in the awe-inspiring wonders of the great outdoors. Fueling my passion for both innovation and vitality, you'll often find me pushing my limits at the gym, sculpting not just my body, but my mind as well. Whether I'm unwinding with cherished friends or immersing myself in the intricacies of a new coding challenge, I approach each moment with boundless enthusiasm and an insatiable hunger for discovery, making every experience an unforgettable journey."
         />
         <section className={about.content}>
           <div className={about.image}>
@@ -88,7 +88,7 @@ export default function About() {
               block="methods"
               icon="fingerprint"
               copy="One of my most gratifying aspects of the creative process lies in meticulously planning the architecture of a project. Whether delving into Design Systems or shaping Brand Strategy, I take pleasure in intricately managing the various touch points of user experience, ensuring a harmonious and well-structured development journey."
-              //invertedColor="invertedColor"
+              invertedColor="invertedColor"
               headerIcon={`${about.icon}`}
             />
           </div>
@@ -100,9 +100,5 @@ export default function About() {
 
 const methods = [
   { key: "planet-moon", name: "User Research", type: "fad" },
-  { key: "qrcode", name: "Digital Strategy", type: "fad" },
-  { key: "window", name: "Design Systems", type: "fad" },
   { key: "cubes", name: "Product Strategy", type: "far" },
-  { key: "layer-plus", name: "Brand Strategy", type: "fad" },
-  { key: "solar-system", name: "Operations", type: "fad" },
 ];
