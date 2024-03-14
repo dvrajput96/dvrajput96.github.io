@@ -2,6 +2,9 @@
 
 // Section
 .section {
+  p {
+    text-align: justify;
+  }
   .content {
     $padding: 2rem;
     position: relative;

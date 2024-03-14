@@ -13,6 +13,9 @@
   border-radius: 2rem;
   background-color: var(--background-dim2);
   border: 1px solid var(--primary-dark);
+  p {
+    text-align: justify;
+  }
 
   .viewProject svg {
     @include transition;

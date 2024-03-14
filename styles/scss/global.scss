@@ -88,13 +88,13 @@ h5 {
 }
 
 p {
+  text-align: justify !important;
   font-size: var(--font-r);
   font-family: var(--font-sans);
   line-height: 1.6;
   letter-spacing: -0.02rem;
-  text-align: justify;
-
   &.subtitle {
+    text-align: justify !important;
     font-family: var(--font-accent);
     font-size: var(--font-r-s);
     font-weight: 600;
