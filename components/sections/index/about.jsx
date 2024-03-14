@@ -77,7 +77,7 @@ export default function About() {
               title="Softskills that pay the bills"
               containerClass={about.container}
               iconClass={about.icon}
-              icon={["fat", "ear-listen"]}
+              icon={["fab", "circle"]}
               copy="In addition to my technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a Android Developer. Outside of work, I am passionate about maintaining an active lifestyle, engaging in activities like gym workouts, and exploring new destinations through travel. I am confident in my ability to bring passion and value to any project."
             />
             <BadgesBlock
