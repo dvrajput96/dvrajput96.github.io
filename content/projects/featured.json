@@ -2,7 +2,7 @@
   {
     "project": "Amway Creators+",
     "url": "https://play.google.com/store/apps/details?id=com.amway.global.creators&hl=en",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "The Amway Creators+",
     "description": " Specifically designed for ABOs, the Amway app enables users to view their business performance and ongoing events, enhance their skills, and create/share programs to facilitate business growth.",
     "imageOptions": [],
@@ -25,7 +25,7 @@
   {
     "project": "Chopt Salad: Android App POC",
     "url": "https://play.google.com/store/apps/details?id=com.choptsalad.choptsalad.android.app&hl=en",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "POC app",
     "description": "for the Chopt salad client, and we were thrilled to win the project. The app features intricate UX and animations created by our talented design team.",
     "imageOptions": [{ "key": "size", "value": "large" }],
@@ -47,7 +47,7 @@
   {
     "project": "CPK (California Pizza Kitchen)",
     "url": "https://yml.co/project/california-pizza-kitchen",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "CPK",
     "description": " We developed and won the client pitch for this high-paced POC, aligning it with the design and UX provided by our talented design team. The project was executed swiftly, ensuring a seamless match to the intricate design elements. Effective communication and collaboration were prioritized to meet the client's expectations.",
     "imageOptions": [],
@@ -65,7 +65,7 @@
   {
     "project": "LastSeat",
     "url": "https://lastseatapp.com/",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "LastSeat",
     "description": " is a comprehensive flight booking platform that allows users to search for and book flights conveniently. The app offers a seamless user experience, with intuitive features and a user-friendly interface.",
     "imageOptions": [{ "key": "size", "value": "large" }],
@@ -83,7 +83,7 @@
   {
     "project": "MLBPA",
     "url": "https://play.google.com/store/apps/details?id=com.icreon.mlbpa&hl=vi",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "MLBPA",
     "description": " app serves as a comprehensive platform for PA announcements, news, updates, collective bargaining information, and licensing frameworks related to the MLBPA. Users can sign in using their existing MLBPA accounts to access the latest PA information in real time.",
     "imageOptions": [],
@@ -104,7 +104,7 @@
   {
     "project": "Mosomo",
     "url": "https://play.google.com/store/apps/details?id=com.workzone&hl=ar",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "Mosomo",
     "description": "Location-based application that makes instant hiring of qualified temporary and casual workers on an on-demand basis, possible and easy.",
     "imageOptions": [{ "key": "size", "value": "large" }],
@@ -127,7 +127,7 @@
   {
     "project": "Sushi Crush",
     "url": "https://play.google.com/store/apps/details?id=ac.sushi_crush&hl=en",
-    "repo": "App",
+    "repo": "Get it on Google Play",
     "descriptionTitle": "Sushi Crush",
     "description": " an innovative mobile app, specializes in the seamless delivery of expertly crafted sushi platters. Utilizing advanced ordering and delivery functionalities, users can enjoy a superior culinary experience with the freshest sushi brought directly to their doorsteps. The app combines precision in delivery logistics with a user-friendly interface, providing a technically advanced solution for sushi enthusiasts.",
     "imageOptions": [],

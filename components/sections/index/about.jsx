@@ -100,9 +100,5 @@ export default function About() {
 
 const methods = [
   { key: "planet-moon", name: "User Research", type: "fad" },
-  { key: "qrcode", name: "Digital Strategy", type: "fad" },
-  { key: "window", name: "Design Systems", type: "fad" },
   { key: "cubes", name: "Product Strategy", type: "far" },
-  { key: "layer-plus", name: "Brand Strategy", type: "fad" },
-  { key: "solar-system", name: "Operations", type: "fad" },
 ];

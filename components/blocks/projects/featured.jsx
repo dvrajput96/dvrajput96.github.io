@@ -53,10 +53,12 @@ export default function FeaturedProject({ content }, index) {
         <div className={css.projectHeader}>
           <div className={css.header}>
             <h3 className="highlight">{project}</h3>
-            <span className={css.privateOr}>
-              <i className="devicon-android-plain"></i>
-              {repo}
-            </span>
+            <a href={url} target="_blank">
+              <span className={css.privateOr}>
+                <i className="devicon-android-plain"></i>
+                {repo}
+              </span>
+            </a>
           </div>
           <div className={css.description}>
             <p>
