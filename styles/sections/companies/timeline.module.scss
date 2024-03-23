@@ -1,0 +1,75 @@
+@import "../../scss/_mixins";
+
+//global.module.scss
+.section {
+  border-bottom: 1px solid var(--primary-dark);
+  // max-height: 1440px;
+  // height: 100vh;
+  justify-content: center;
+  margin-top: 100px;
+
+  > .container {
+    height: fit-content;
+  }
+  p {
+    text-align: justify;
+  }
+
+  .preHeader {
+    color: var(--secondary);
+    font-family: var(--font-accent);
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 1rem 0;
+  }
+
+  .header {
+    color: var(--primary-bright);
+    font-family: var(--font-sans);
+    font-size: 5rem;
+    margin: 0;
+  }
+
+  .primaryDim {
+    color: var(--primary-dim);
+  }
+
+  .primaryBright {
+    color: var(--primary);
+  }
+
+  .tempBright {
+    font-size: 0.875rem;
+    width: 60%;
+  }
+
+  .gitBadges {
+    position: relative;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    height: 1rem;
+    img {
+      height: 16px;
+      width: fit-content;
+      border-radius: 0.25rem;
+    }
+  }
+
+  @include media($max: $mobile) {
+    .preHeader {
+      font-size: 1rem;
+    }
+    .header {
+      font-size: 2.9rem;
+    }
+    .tempBright {
+      width: 100%;
+      padding-right: 1rem;
+    }
+    button {
+      font-size: 0.875rem;
+      padding: 0.75rem 2rem;
+    }
+  }
+}

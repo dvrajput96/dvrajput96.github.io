@@ -1,10 +1,14 @@
 [
   {
-    "url": "#about",
+    "url": "/#about",
     "title": "About Me"
   },
   {
-    "url": "#projects",
+    "url": "/#projects",
     "title": "Projects"
+  },
+  {
+    "url": "/companies",
+    "title": "Companies"
   }
 ]
