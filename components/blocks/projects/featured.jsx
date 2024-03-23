@@ -1,7 +1,8 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable @next/next/no-img-element */
 import Image from "next/image";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { m, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
@@ -22,13 +23,16 @@ export default function FeaturedProject({ content }, index) {
     imageOptions,
     images,
   } = content;
-
+  const [theme, setTheme] = useState(null);
   const controls = useAnimation();
   const { ref, inView } = useInView({
     threshold: 0.25,
     triggerOnce: false,
   });
-
+  useEffect(() => {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    setTheme(currentTheme);
+  });
   useEffect(() => {
     if (inView) {
       controls.start("visible");
@@ -81,12 +85,15 @@ export default function FeaturedProject({ content }, index) {
 
       <div className={css.imageContainer}>
         <span className={`${css.imageAnimationContainer}`}>
-          {images.map(({ key, url, hover, h, w }, index) => {
+          {images.map(({ key, url, hover, svg, durl, lurl }, index) => {
             hover = hover === "left" ? hoverLeft : hoverRight;
             return (
               <m.div key={`${index}-${key}`} variants={item}>
                 <m.div variants={hover}>
-                  <img src={url} alt="x" />
+                  <img
+                    src={url ? url : theme === "dark" ? durl : lurl}
+                    alt="x"
+                  />
                 </m.div>
               </m.div>
             );

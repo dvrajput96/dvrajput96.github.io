@@ -56,8 +56,10 @@
         "key": "mock-stack",
         "hover": "right",
         "h": "63",
-        "w": "200",
-        "url": "/img/cpk-logo-resize.png"
+        "svg": true,
+        "w": "150",
+        "durl": "/img/cpk-light.png",
+        "lurl": "/img/cpk-logo-resizefin.png"
       }
     ],
     "stack": [{ "key": "kotlin", "name": "Kotlin", "type": "devicon" }]
