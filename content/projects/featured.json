@@ -142,7 +142,8 @@
         "hover": "right",
         "h": "88",
         "w": "136",
-        "url": "/img/sushi_logo.png"
+        "durl": "/img/logo_sushi_white_.png",
+        "lurl": "/img/sushi_logo.png"
       }
     ],
     "stack": [
