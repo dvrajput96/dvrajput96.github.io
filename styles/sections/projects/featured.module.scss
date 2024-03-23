@@ -111,7 +111,7 @@
 .imageContainer {
   z-index: 3;
   position: relative;
-  display: block;
+  display: inline-table;
   width: 50%;
   border-radius: 1rem;
   flex-grow: 1;

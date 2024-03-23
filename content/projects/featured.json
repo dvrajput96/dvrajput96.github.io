@@ -96,7 +96,9 @@
         "hover": "right",
         "h": "3",
         "w": "4",
-        "url": "/img/mlbpa-r.webp"
+        "lurl": "/img/mlbp-d.png",
+        "durl": "/img/mlb-l.png",
+        "url": "/img/mlb-l.png"
       }
     ],
     "stack": [
