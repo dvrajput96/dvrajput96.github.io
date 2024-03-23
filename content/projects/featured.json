@@ -77,7 +77,8 @@
         "hover": "right",
         "h": "50",
         "w": "181",
-        "url": "/img/lastseat-logo-resize.svg"
+        "durl": "/img/lastseat-logo-resize.svg",
+        "lurl": "/img/l-s.svg"
       }
     ],
     "stack": [{ "key": "kotlin", "name": "Kotlin", "type": "devicon" }]
