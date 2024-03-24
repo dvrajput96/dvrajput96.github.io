@@ -23,9 +23,9 @@ export default function Timeline() {
           <VerticalTimeline>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
-              contentStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+              contentStyle={{ background: "#0c1019", color: "#fff" }}
               contentArrowStyle={{
-                borderRight: "7px solid  rgb(33, 150, 243)",
+                borderRight: "7px solid  #0c1019",
               }}
               date="Oct 2023 - Present"
               iconStyle={{ background: "#fff", color: "#fff" }}
@@ -48,6 +48,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="Jul 2021- Sep 2023"
+              contentStyle={{ background: "#0c1019", color: "#fff" }}
+              contentArrowStyle={{
+                borderRight: "7px solid  #0c1019",
+              }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<Yml />}
             >
@@ -65,6 +69,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="Jun 2020 - Jun 2021"
+              contentStyle={{ background: "#0c1019", color: "#fff" }}
+              contentArrowStyle={{
+                borderRight: "7px solid  #0c1019",
+              }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<BornDigital />}
             >
@@ -87,6 +95,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="Dec 2019 - May 2020"
+              contentStyle={{ background: "#0c1019", color: "#fff" }}
+              contentArrowStyle={{
+                borderRight: "7px solid  #0c1019",
+              }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<SektchDigital />}
             >
@@ -110,12 +122,19 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
               date="Jun 2018 - Nov 2019"
+              contentStyle={{ background: "#0c1019", color: "#fff" }}
+              contentArrowStyle={{
+                borderRight: "7px solid  #0c1019",
+              }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<Tatva />}
             >
               <h3 className="vertical-timeline-element-title">
                 Software Engineer
               </h3>
+              <h4 className="vertical-timeline-element-subtitle">
+                Ahmedabad, Gujarat, India
+              </h4>
               <p>
                 I have gained experience in developing a diverse range of
                 applications, including Flight booking, Shopping, Messaging,

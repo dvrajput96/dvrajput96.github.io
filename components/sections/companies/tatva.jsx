@@ -7,6 +7,7 @@ const Tatva = () => (
     viewBox="0 0 200 200"
     width="200"
     height="200"
+    style={{ left: "20%", top: "20%", width: "60px", height: "60px" }}
   >
     <title>mediamodifier_cropped_image (4)</title>
     <defs>
