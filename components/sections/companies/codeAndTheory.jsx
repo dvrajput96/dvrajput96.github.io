@@ -7,7 +7,6 @@ const CodeAndTheory = () => (
     viewBox="0 0 267 267"
     width="267"
     height="267"
-    style={{ left: "20%", top: "20%", width: "60px", height: "60px" }}
   >
     <title>mediamodifier_cropped_image</title>
     <defs>

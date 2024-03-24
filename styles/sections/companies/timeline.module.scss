@@ -1,3 +1,6 @@
+$badgeText: --primary;
+$border: --primary-dark;
+$background: --background-dim2;
 @import "../../scss/_mixins";
 
 //global.module.scss
@@ -13,6 +16,19 @@
   }
   p {
     text-align: justify;
+  }
+
+  svg {
+    left: 20% !important;
+    top: 20% !important;
+    width: 60px !important;
+    height: 60px !important;
+    @include media($max: $mobile) {
+      left: 28% !important;
+      top: 28% !important;
+      width: 42px !important;
+      height: 42px !important;
+    }
   }
 
   .preHeader {

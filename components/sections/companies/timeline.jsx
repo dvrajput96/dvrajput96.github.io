@@ -1,9 +1,6 @@
 import Section from "../../structure/section";
 import Container from "../../structure/container";
-
-import space from "../../utils/spacing.util";
 import timeline from "../../../styles/sections/companies/timeline.module.scss";
-import CodeTheoryLogo from "/public/img/code_and_theory_logo.jpg";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -20,13 +17,13 @@ export default function Timeline() {
     <Section classProp={`${timeline.section}`}>
       <Container spacing={"VerticalXXXL"}>
         <section>
-          <VerticalTimeline>
+          <VerticalTimeline className={`${timeline.custom}`}>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
-              contentStyle={{ background: "#0c1019", color: "#fff" }}
-              contentArrowStyle={{
-                borderRight: "7px solid  #0c1019",
-              }}
+              //contentStyle={{ background: "#0c1019", color: "#fff" }}
+              // contentArrowStyle={{
+              //   borderRight: "7px solid  #0c1019",
+              // }}
               date="Oct 2023 - Present"
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<CodeAndTheory />}
@@ -69,10 +66,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="Jun 2020 - Jun 2021"
-              contentStyle={{ background: "#0c1019", color: "#fff" }}
-              contentArrowStyle={{
-                borderRight: "7px solid  #0c1019",
-              }}
+              // contentStyle={{ background: "#0c1019", color: "#fff" }}
+              // contentArrowStyle={{
+              //   borderRight: "7px solid  #0c1019",
+              // }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<BornDigital />}
             >
@@ -95,10 +92,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="Dec 2019 - May 2020"
-              contentStyle={{ background: "#0c1019", color: "#fff" }}
-              contentArrowStyle={{
-                borderRight: "7px solid  #0c1019",
-              }}
+              // contentStyle={{ background: "#0c1019", color: "#fff" }}
+              // contentArrowStyle={{
+              //   borderRight: "7px solid  #0c1019",
+              // }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<SektchDigital />}
             >
@@ -122,10 +119,10 @@ export default function Timeline() {
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
               date="Jun 2018 - Nov 2019"
-              contentStyle={{ background: "#0c1019", color: "#fff" }}
-              contentArrowStyle={{
-                borderRight: "7px solid  #0c1019",
-              }}
+              // contentStyle={{ background: "#0c1019", color: "#fff" }}
+              // contentArrowStyle={{
+              //   borderRight: "7px solid  #0c1019",
+              // }}
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<Tatva />}
             >
