@@ -77,23 +77,23 @@ export default function Technical() {
   );
 }
 
-const software = [
+const tech = [
   { key: "android", name: "Android", type: "devicon" },
   // { key: "androidstudio", name: "Android Studio", type: "devicon" },
   // { key: "java", name: "Java", type: "devicon" },
   { key: "kotlin", name: "Kotlin", type: "devicon" },
   { key: "figma", name: "Figma", type: "devicon" },
   { key: "vscode", name: "VSCode", type: "devicon" },
-  { key: "mailbox", name: "Postman", type: "fas" },
   // { key: "computer-mouse", name: "Click Up", type: "fas" },
 ];
 
-const tech = [
+const software = [
   { key: "android", name: "Android", type: "devicon" },
   // { key: "androidstudio", name: "Android Studio", type: "devicon" },
   // { key: "java", name: "Java", type: "devicon" },
   { key: "kotlin", name: "Kotlin", type: "devicon" },
   { key: "jetpackcompose", name: "Jetpack Compose", type: "devicon" },
+  { key: "postman", name: "Postman", type: "devicon" },
   { key: "google", name: "GA4/GTM", type: "devicon" },
   // { key: "html5", name: "HTML5", type: "devicon" },
   // { key: "css3", name: "CSS3", type: "devicon" },
