@@ -178,3 +178,7 @@ a svg {
   background: var(--primary-bright) !important;
   color: var(--primary-bright) !important;
 } */
+.project-desc p {
+  font-size: 16px !important;
+  margin-top: 10px;
+}

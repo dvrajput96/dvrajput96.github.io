@@ -65,9 +65,13 @@ export default function FeaturedProject({ content }, index) {
             </a>
           </div>
           <div className={css.description}>
-            <p>
-              <strong>{descriptionTitle}</strong> {description}
-            </p>
+            {/* <p>
+              <strong>{descriptionTitle}</strong>
+            </p> */}
+            <div
+              className="project-desc"
+              dangerouslySetInnerHTML={{ __html: description }}
+            ></div>
           </div>
           <div className={css.stackContainer}>
             <Badges

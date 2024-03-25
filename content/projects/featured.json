@@ -4,7 +4,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.amway.global.creators&hl=en",
     "repo": "Google Play",
     "descriptionTitle": "The Amway Creators+",
-    "description": " Specifically designed for ABOs, the Amway app enables users to view their business performance and ongoing events, enhance their skills, and create/share programs to facilitate business growth.",
+    "description": "<p>The ABO-oriented Amway app incorporates cutting-edge technologies and a comprehensive feature set tailored specifically for ABOs. With a robust tech stack including Jetpack Compose UI, Kotlin Coroutines, and Firebase functionalities, the app provides seamless user experiences and powerful business growth tools. It's a testament to modern mobile development, meticulously designed to meet the diverse needs of ABOs globally.</p><p>As the lead developer, my role extends beyond coding tasks to orchestrate effective collaboration among stakeholders. From clients to QA teams, I ensure that every feature aligns with user requirements and industry best practices. By maintaining strict code quality standards and fostering open communication channels, I drive the continual evolution of the Amway app, empowering ABOs to thrive in their endeavors.</p>",
     "imageOptions": [],
     "images": [
       {
@@ -27,7 +27,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.choptsalad.choptsalad.android.app&hl=en",
     "repo": "Google Play",
     "descriptionTitle": "POC app",
-    "description": "for the Chopt salad client, and we were thrilled to win the project. The app features intricate UX and animations created by our talented design team.",
+    "description": "<p>We recently secured the Chopt salad project after developing a proof-of-concept (POC) app that impressed the client. Our app boasts intricate UX and animations meticulously crafted by our talented design team. The primary goal is to deliver an exceptional user experience, focusing on intuitive navigation, captivating animations, and seamless interactions.</p><p>The app's success in winning the client's approval underscores the effectiveness of our design and development strategy. We take pride in delivering a solution that not only meets but exceeds the client's expectations, highlighting our proficiency in creating engaging UX and animations.</p>",
     "imageOptions": [{ "key": "size", "value": "large" }],
     "images": [
       {
@@ -49,7 +49,7 @@
     "url": "https://yml.co/project/california-pizza-kitchen",
     "repo": "Google Play",
     "descriptionTitle": "CPK",
-    "description": " We developed and won the client pitch for this high-paced POC, aligning it with the design and UX provided by our talented design team. The project was executed swiftly, ensuring a seamless match to the intricate design elements. Effective communication and collaboration were prioritized to meet the client's expectations.",
+    "description": "<p>We developed and won the client pitch for this high-paced POC, aligning it with the design and UX provided by our talented design team. The project was executed swiftly, ensuring a seamless match to the intricate design elements. Effective communication and collaboration were prioritized to meet the client's expectations.</p><p>Our success in securing the project victory is a testament to our team's expertise and commitment to excellence. The POC showcases our ability to translate the design team's vision into a functional and visually impressive app.</p>",
     "imageOptions": [],
     "images": [
       {
@@ -69,7 +69,7 @@
     "url": "https://lastseatapp.com/",
     "repo": "Google Play",
     "descriptionTitle": "LastSeat",
-    "description": " is a comprehensive flight booking platform that allows users to search for and book flights conveniently. The app offers a seamless user experience, with intuitive features and a user-friendly interface.",
+    "description": "<p>I collaborated closely with a senior developer to bring LastSeat, a flight booking app, to life. Together, we handled every aspect of the project, from conceptualization to implementation. LastSeat stands as a comprehensive platform, offering users seamless flight booking experiences through its intuitive features and user-friendly interface.</p><p>Throughout the development journey, my senior colleague and I combined our skills to ensure LastSeat's success. From integrating APIs for flight data to implementing secure payment processing, we focused on delivering robust functionality. Building LastSeat from scratch was both thrilling and fulfilling, as we prioritized industry standards, user feedback, and the latest technologies to create a reliable and efficient flight booking solution.</p>",
     "imageOptions": [{ "key": "size", "value": "large" }],
     "images": [
       {
@@ -88,7 +88,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.icreon.mlbpa&hl=vi",
     "repo": "Google Play",
     "descriptionTitle": "MLBPA",
-    "description": " app serves as a comprehensive platform for PA announcements, news, updates, collective bargaining information, and licensing frameworks related to the MLBPA. Users can sign in using their existing MLBPA accounts to access the latest PA information in real time.",
+    "description": "<p>The MLBPA app offers a centralized hub for PA announcements, news, updates, and collective bargaining information pertinent to the MLBPA. Users can conveniently log in with their existing MLBPA accounts, accessing real-time updates and licensing frameworks effortlessly.</p><p>As an individual developer, I focused on refining specific aspects of the application, leveraging my expertise to enhance functionality and user experience. Through collaboration with the team, I ensured that my contributions complemented the overarching project goals, ultimately creating a valuable resource for users seeking current and relevant PA-related content.</p>",
     "imageOptions": [],
     "images": [
       {
@@ -111,7 +111,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.workzone&hl=ar",
     "repo": "Google Play",
     "descriptionTitle": "Mosomo",
-    "description": "Location-based application that makes instant hiring of qualified temporary and casual workers on an on-demand basis, possible and easy.",
+    "description": "<p>Teaming up with a senior developer, we spearheaded the development of the Mosomo app from inception to completion. Our collaboration spanned the entire app development lifecycle, from planning and design to implementation and testing. With a focus on high-quality code and best practices, we ensured that the app met the highest standards of excellence.</p><p>Working alongside a seasoned professional provided invaluable learning opportunities and insights. Together, we crafted a robust and feature-rich app that not only meets but exceeds the expectations of our users, reflecting our commitment to delivering top-notch solutions.</p>",
     "imageOptions": [{ "key": "size", "value": "large" }],
     "images": [
       {
@@ -134,7 +134,7 @@
     "url": "https://play.google.com/store/apps/details?id=ac.sushi_crush&hl=en",
     "repo": "Google Play",
     "descriptionTitle": "Sushi Crush",
-    "description": " an innovative mobile app, specializes in the seamless delivery of expertly crafted sushi platters. Utilizing advanced ordering and delivery functionalities, users can enjoy a superior culinary experience with the freshest sushi brought directly to their doorsteps. The app combines precision in delivery logistics with a user-friendly interface, providing a technically advanced solution for sushi enthusiasts.",
+    "description": "<p>An innovative mobile app, specializes in the seamless delivery of expertly crafted sushi platters. Utilizing advanced ordering and delivery functionalities, users can enjoy a superior culinary experience with the freshest sushi brought directly to their doorsteps. The app combines precision in delivery logistics with a user-friendly interface, providing a technically advanced solution for sushi enthusiasts.</p><p>In the Sudhi Crush project, I contributed to code refactoring, introduced new features, and optimized the existing codebase. The focus was on enhancing the overall performance and user experience of the app.</p>",
     "imageOptions": [],
     "images": [
       {
