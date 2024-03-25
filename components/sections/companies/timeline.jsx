@@ -24,7 +24,16 @@ export default function Timeline() {
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<CodeAndTheory />}
             >
-              <h3 className="vertical-timeline-element-title">
+              <h3>
+                Code And Theory{" "}
+                <span style={{ fontSize: "14px", fontWeight: "normal" }}>
+                  (Formerly known as YML)
+                </span>
+              </h3>
+              <h3
+                className="vertical-timeline-element-title"
+                style={{ marginTop: "15px" }}
+              >
                 Senior Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
@@ -44,7 +53,11 @@ export default function Timeline() {
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<Yml />}
             >
-              <h3 className="vertical-timeline-element-title">
+              <h3>YML</h3>
+              <h3
+                className="vertical-timeline-element-title"
+                style={{ marginTop: "15px" }}
+              >
                 Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
@@ -61,7 +74,11 @@ export default function Timeline() {
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<BornDigital />}
             >
-              <h3 className="vertical-timeline-element-title">
+              <h3>Borndigital Limited</h3>
+              <h3
+                className="vertical-timeline-element-title"
+                style={{ marginTop: "15px" }}
+              >
                 Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
@@ -83,7 +100,11 @@ export default function Timeline() {
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<SektchDigital />}
             >
-              <h3 className="vertical-timeline-element-title">
+              <h3>Sketch Digital Solutions</h3>
+              <h3
+                className="vertical-timeline-element-title"
+                style={{ marginTop: "15px" }}
+              >
                 Senior Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
@@ -106,7 +127,11 @@ export default function Timeline() {
               iconStyle={{ background: "#fff", color: "#fff" }}
               icon={<Tatva />}
             >
-              <h3 className="vertical-timeline-element-title">
+              <h3>TatvaSoft</h3>
+              <h3
+                className="vertical-timeline-element-title"
+                style={{ marginTop: "15px" }}
+              >
                 Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
