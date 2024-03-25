@@ -79,25 +79,56 @@ export default function Technical() {
 
 const software = [
   { key: "android", name: "Android", type: "devicon" },
-  { key: "androidstudio", name: "Android Studio", type: "devicon" },
-  { key: "java", name: "Java", type: "devicon" },
+  // { key: "androidstudio", name: "Android Studio", type: "devicon" },
+  // { key: "java", name: "Java", type: "devicon" },
   { key: "kotlin", name: "Kotlin", type: "devicon" },
   { key: "figma", name: "Figma", type: "devicon" },
   { key: "vscode", name: "VSCode", type: "devicon" },
   { key: "mailbox", name: "Postman", type: "fas" },
-  { key: "computer-mouse", name: "Click Up", type: "fas" },
+  // { key: "computer-mouse", name: "Click Up", type: "fas" },
 ];
 
 const tech = [
   { key: "android", name: "Android", type: "devicon" },
-  { key: "androidstudio", name: "Android Studio", type: "devicon" },
-  { key: "java", name: "Java", type: "devicon" },
+  // { key: "androidstudio", name: "Android Studio", type: "devicon" },
+  // { key: "java", name: "Java", type: "devicon" },
   { key: "kotlin", name: "Kotlin", type: "devicon" },
   { key: "jetpackcompose", name: "Jetpack Compose", type: "devicon" },
   { key: "google", name: "GA4/GTM", type: "devicon" },
-  { key: "html5", name: "HTML5", type: "devicon" },
-  { key: "css3", name: "CSS3", type: "devicon" },
-  { key: "sass", name: "SASS", type: "devicon" },
+  // { key: "html5", name: "HTML5", type: "devicon" },
+  // { key: "css3", name: "CSS3", type: "devicon" },
+  // { key: "sass", name: "SASS", type: "devicon" },
+  { key: "jira", name: "Jira", type: "devicon" },
+  { key: "confluence", name: "Confluence", type: "devicon" },
   { key: "git", name: "Git", type: "devicon" },
   { key: "mysql", name: "MySQL", type: "devicon" },
+  { key: "graphql", name: "GraphQL", type: "devicon" },
+  { key: "firebase", name: "Firebase", type: "devicon" },
+  { key: "heap", name: "Heap" },
+  { key: "hilt", name: "Hilt" },
+  { key: "dagger", name: "Dagger" },
+  {
+    key: "dependency-injection",
+    name: "Dependency Injection",
+  },
+  {
+    key: "content-stack",
+    name: "content stack ",
+  },
+  {
+    key: "retrofit",
+    name: "Retrofit",
+  },
+  {
+    key: "brightcove",
+    name: "Brightcove",
+  },
+  {
+    key: "chatgpt",
+    name: "ChatGPT 3.5",
+  },
+  {
+    key: "co-pilot",
+    name: "Github Co-Pilot",
+  },
 ];
