@@ -65,7 +65,10 @@ export default function Timeline() {
               </h4>
               <p>
                 Ensuring the creation of high-quality products that leaves a
-                lasting impact.
+                lasting impact. I have received numerous spot awards for my
+                exceptional leadership skills in guiding the team and
+                consistently delivering projects within tight deadlines during
+                critical periods.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
