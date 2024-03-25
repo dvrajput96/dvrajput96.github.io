@@ -16,10 +16,18 @@
       }
     ],
     "stack": [
-      { "key": "brightcove", "name": "Brightcove", "type": "far" },
       { "key": "kotlin", "name": "Kotlin", "type": "devicon" },
       { "key": "jetpackcompose", "name": "Jetpack Compose", "type": "devicon" },
-      { "key": "graphql", "name": "Graphql", "type": "devicon" }
+      { "key": "graphql", "name": "Graphql", "type": "devicon" },
+      { "key": "brightcove", "name": "Brightcove" },
+      { "key": "content-stack", "name": "Content Stack" },
+      { "key": "heap", "name": "Heap" },
+      {
+        "key": "jetpackcomponents",
+        "name": "Jetpack Components"
+      },
+      { "key": "room-database", "name": "Room Database" },
+      { "key": "cross-team", "name": "Cross-team Collaboration" }
     ]
   },
   {
@@ -41,7 +49,14 @@
     "stack": [
       { "key": "kotlin", "name": "Kotlin", "type": "devicon" },
       { "key": "figma", "name": "Figma", "type": "devicon" },
-      { "key": "postman", "name": "Postman", "type": "devicon" }
+      { "key": "postman", "name": "Postman", "type": "devicon" },
+      { "key": "lottie", "name": "Lottie" },
+      { "key": "glide", "name": "Glide" },
+      { "key": "retrofit", "name": "Retrofit" },
+      { "key": "mvvm", "name": "MVVM" },
+      { "key": "hilt", "name": "Hilt" },
+      { "key": "api", "name": "Rest APIs" },
+      { "key": "google-map", "name": "Google Maps" }
     ]
   },
   {
@@ -62,7 +77,11 @@
         "lurl": "/img/cpk-logo-resizefin.png"
       }
     ],
-    "stack": [{ "key": "kotlin", "name": "Kotlin", "type": "devicon" }]
+    "stack": [
+      { "key": "kotlin", "name": "Kotlin", "type": "devicon" },
+      { "key": "mvvm", "name": "MVVM" },
+      { "key": "google-map", "name": "Google Maps" }
+    ]
   },
   {
     "project": "LastSeat",
@@ -81,7 +100,13 @@
         "lurl": "/img/l-s.svg"
       }
     ],
-    "stack": [{ "key": "kotlin", "name": "Kotlin", "type": "devicon" }]
+    "stack": [
+      { "key": "kotlin", "name": "Kotlin", "type": "devicon" },
+      { "key": "mvvm", "name": "MVVM" },
+      { "key": "fresco", "name": "Fresco" },
+      { "key": "paging", "name": "Paging" },
+      { "key": "rest-api", "name": "Rest APIs" }
+    ]
   },
   {
     "project": "MLBPA",
@@ -103,7 +128,9 @@
     ],
     "stack": [
       { "key": "kotlin", "name": "Kotlin", "type": "devicon" },
-      { "key": "materialui", "name": "Material UI", "type": "devicon" }
+      { "key": "materialui", "name": "Material UI", "type": "devicon" },
+      { "key": "rest-api", "name": "Rest APIs" },
+      { "key": "room-db", "name": "Room Database" }
     ]
   },
   {
@@ -124,9 +151,12 @@
     ],
     "stack": [
       { "key": "java", "name": "java", "type": "devicon" },
-      { "key": "json", "name": "json", "type": "devicon" },
       { "key": "sqlite", "name": "sqlite", "type": "devicon" },
-      { "key": "androidstudio", "name": "android studio", "type": "devicon" }
+      { "key": "gson", "name": "Gson" },
+      { "key": "rest-api", "name": "Rest APIs" },
+      { "key": "retrofit", "name": "Retrofit" },
+      { "key": "mvc", "name": "MVC" },
+      { "key": "google-map", "name": "Google Maps" }
     ]
   },
   {
@@ -148,7 +178,10 @@
     ],
     "stack": [
       { "key": "java", "name": "java", "type": "devicon" },
-      { "key": "androidstudio", "name": "android studio", "type": "devicon" }
+      { "key": "rest-api", "name": "Rest APIs" },
+      { "key": "retrofit", "name": "Retrofit" },
+      { "key": "mvc", "name": "MVC" },
+      { "key": "google-map", "name": "Google Maps" }
     ]
   }
 ]
